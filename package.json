@@ -1,0 +1,20 @@
+{
+  "name": "user_management",
+  "version": "1.0.0",
+  "description": "User management application",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build step\"",
+    "test": "echo \"No tests yet\"",
+    "lint": "echo \"No lint yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adithyareddym105-gif/User_Management.git"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
